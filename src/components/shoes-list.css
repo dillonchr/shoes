@@ -1,0 +1,20 @@
+.shoes-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.shoes-list__tile {
+    margin: 1rem;
+    text-align: center;
+    width: 100%;
+}
+@media (min-width: 768px) and (max-width: 1299px) {
+    .shoes-list__tile {
+        width: calc(50% - 4rem);
+    }
+}
+@media (min-width: 1300px) {
+    .shoes-list__tile {
+        width: calc(25% - 4rem);
+    }
+}

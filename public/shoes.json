@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Colorful Slip-Ons",
+    "brand": "Vans",
+    "from": "Quickie Mart",
+    "story": "I got these on a whim from the Quickie Mart bargain bin. I had budget burning a hole in my pocket.",
+    "image": "colorful-vans.jpg",
+    "rating": 8
+  },
+  {
+    "name": "Red Vans",
+    "brand": "Vans",
+    "from": "Community Thrift Store",
+    "story": "These were my second pair of Vans ever. I saw them all gunked up on a thrift store shelf and loved them! I washed them and changed the shoe laces and now they're some of my favorite shoes to wear.",
+    "image": "red-vans.jpg",
+    "rating": 10
+  },
+  {
+    "name": "Purple Vans",
+    "brand": "Vans",
+    "from": "Quickie Mart",
+    "story": "I got these in a batch of shoes from Quickie Mart. I realized that I didn't like them as much as the other shoes I had gotten. But then I found a way to make them more awesome. Glow-in-the-dark shoestrings from Dollar Tree. Booyah.",
+    "image": "purple-vans.jpg",
+    "rating": 6
+  },
+  {
+    "name": "Donkey Kongs",
+    "brand": "Vans",
+    "from": "Vans",
+    "story": "I used to follow a bunch of artists on Instagram. That's the end of that story. I don't know why I would've bought these online if it weren't for somebody making me want them. I don't remember the story exactly. I wanted Vans like Charlie wears on It's Always Sunny. They have pink soles. I couldn't find any like them then I saw these have special soles. Black with white text. GAME. OVER. I had to have them.",
+    "image": "dk-vans.jpg",
+    "rating": 8
+  }
+]
