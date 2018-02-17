@@ -1,0 +1,58 @@
+.shoe-details {
+    position: relative;
+}
+.shoe-details__exit {
+    align-items: center;
+    background-color: maroon;
+    border: none;
+    border-radius: 50%;
+    display: flex;
+    height: 3rem;
+    justify-content: center;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    width: 3rem;
+}
+.shoe-details__exit::after {
+    color: white;
+    content: "\00d7";
+    font-size: 2rem;
+    font-weight: 700;
+}
+.shoe-details__photo,
+.shoe-details__metadata {
+    box-sizing: border-box;
+    padding: 2rem;
+}
+.shoe-details__photo img {
+    width: 100%;
+}
+.shoe-details__stars {
+    height: 37px;
+    margin: auto;
+    position: relative;
+    width: 240px;
+}
+.shoe-details__stars-overlay {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.shoe-details__stars-fill {
+    background-color: gold;
+    height: 100%;
+}
+@media (min-width: 768px) {
+    .shoe-details {
+        display: flex;
+    }
+    .shoe-details__photo {
+        width: 66.666%;
+    }
+    .shoe-details__metadata {
+        width: 33.333%;
+    }
+}

@@ -8,6 +8,9 @@
     text-align: center;
     width: 100%;
 }
+.shoes-list__label {
+    font-weight: 700;
+}
 @media (min-width: 768px) and (max-width: 1299px) {
     .shoes-list__tile {
         width: calc(50% - 4rem);
