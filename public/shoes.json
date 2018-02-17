@@ -30,5 +30,177 @@
     "story": "I used to follow a bunch of artists on Instagram. That's the end of that story. I don't know why I would've bought these online if it weren't for somebody making me want them. I don't remember the story exactly. I wanted Vans like Charlie wears on It's Always Sunny. They have pink soles. I couldn't find any like them then I saw these have special soles. Black with white text. GAME. OVER. I had to have them.",
     "image": "dk-vans.jpg",
     "rating": 8
+  },
+  {
+    "name": "Aldos",
+    "brand": "Aldo",
+    "from": "DSW",
+    "story": "I had just started a new job and saw some shoes very similar at a meeting and I really liked them. So I thought what the heck, let's do it. I wore them like four or five times ever probably. Hate 'em.",
+    "image": "aldos.jpg",
+    "rating": 1,
+    "retired": true
+  },
+  {
+    "name": "Birkenstocks",
+    "brand": "Birkenstock",
+    "from": "Dillard's",
+    "story": "One of the first budgets (measured budgets) that I had I splurged on these. I love the hippie look and frankly love sandals. So it just made sense.",
+    "image": "birkenstocks.jpg",
+    "rating": 10,
+    "sandals": true
+  },
+  {
+    "name": "Beatle Boots",
+    "brand": "Florsheim",
+    "from": "Salvation Army",
+    "story": "These are one of the few thrift finds I've made that have been great to me. They were perfectly sized, and super cheap. They've served me well as meeting shoes and medieval costume apparel.",
+    "image": "black-boots.jpg",
+    "rating": 8,
+    "meetingsOnly": true
+  },
+  {
+    "name": "Black Meeting Shoes",
+    "brand": "Johnston & Murphy",
+    "from": "Goodwill",
+    "story": "Bixby Goodwill has had some good shoes. These have been great stompers.",
+    "image": "black-meeting-shoes.jpg",
+    "rating": 9,
+    "meetingsOnly": true
+  },
+  {
+    "name": "Specky Nikes",
+    "brand": "Nike",
+    "from": "Footaction",
+    "story": "I was in a health reboot mood a around 2015 and got these to jump start my activity.",
+    "image": "black-nikes.jpg",
+    "rating": 9
+  },
+  {
+    "name": "Pleathers",
+    "brand": "Apt. 9",
+    "from": "Kohl's",
+    "story": "When I still shopped retail exclusively I got these thinking that wingtips were wingtips no matter what. That's not the case. Bleh.",
+    "image": "black-pleather-shoes.jpg",
+    "rating": 1,
+    "retired": true,
+    "meetingsOnly": true
+  },
+  {
+    "name": "Black Vans",
+    "brand": "Vans",
+    "from": "Quickie Mart",
+    "story": "I had done a lot of research on early skateboards and found a brand I really liked called Vision. They had a shoe that was nearly identical to this one and I happened upon this pair in the bargain bin and had to have them!",
+    "image": "black-vans.jpg",
+    "rating": 9
+  },
+  {
+    "name": "Blue Nikes",
+    "brand": "Nike",
+    "from": "Footaction",
+    "story": "Another attempt at motivating me to move more. This was probably around 2013/2014 and these days are usually used for mowing the lawn. Still like them, just not for everyday wear.",
+    "image": "blue-nikes.jpg",
+    "rating": 5
+  },
+  {
+    "name": "Blue Vans",
+    "brand": "Vans",
+    "from": "Vans",
+    "story": "My first pair of Vans. I had long enjoyed the design but only after getting a new job did I decide to finally get me a pair.",
+    "image": "blue-vans.jpg",
+    "rating": 9
+  },
+  {
+    "name": "Brown Meeting Shoes",
+    "brand": "Johnston & Murphy",
+    "from": "Goodwill",
+    "story": "I think I got these at the same time as the black-meeting shoes. I love these because they have a nice woody clack with each step.",
+    "image": "brown-clacky-meeting-shoes.jpg",
+    "rating": 10,
+    "meetingsOnly": true
+  },
+  {
+    "name": "Brown Meeting Shoes II",
+    "brand": "J. Murphy",
+    "from": "Bloomington's",
+    "story": "First time to shop at Bloomington's. I was very taken by the clean look of these and I desperately needed meeting shoes.",
+    "image": "brown-meeting-shoes.jpg",
+    "rating": 7,
+    "meetingsOnly": true
+  },
+  {
+    "name": "Converse",
+    "brand": "Converse",
+    "from": "Kohl's",
+    "story": "I was interested in getting some hipster shoes and these seemed like a good place to start.",
+    "image": "converse.jpg",
+    "rating": 8
+  },
+  {
+    "name": "Croc Flops",
+    "brand": "Crocs",
+    "from": "Amazon",
+    "story": "I had been wearing my Birkenstocks 24/7 and didn't like wearing them for every occasion. So I determined to get some more houseshoe-esque sandals for days I don't leave the house. Perfect for walmart trips or thrift store runs.",
+    "image": "crocs.jpg",
+    "rating": 8,
+    "sandals": true
+  },
+  {
+    "name": "Flojos",
+    "brand": "Flojos",
+    "from": "Ross",
+    "story": "I had a black pair back in 2012 and got them submerged in a mud puddle, never cleaned them and just threw them away. So when I saw the brown pair at Ross I got them because they are super comfortable and I love flip flops.",
+    "image": "flojos.jpg",
+    "rating": 6,
+    "sandals": true
+  },
+  {
+    "name": "Pumas",
+    "brand": "Puma",
+    "from": "Goodwill",
+    "story": "Another Bixby Goodwill find, I hadn't converted over to Vans yet so I thought I'd give Pumas a try. I don't like them much anymore but they still sport the sweet dollar glow-in-the-dark shoestrings.",
+    "image": "pumas.jpg",
+    "rating": 3,
+    "retired": true
+  },
+  {
+    "name": "Running Shoes",
+    "brand": "Saucony",
+    "from": "Amazon",
+    "story": "I had been running a lot in 2017 and was starting to collect gear to help me out. These were after a lot of research and shopping was done. I love these. Exclusively used for running.",
+    "image": "sauconys.jpg",
+    "rating": 10
+  },
+  {
+    "name": "Slippy's",
+    "brand": "Walmart",
+    "from": "Walmart",
+    "story": "I bought these on the way home from Branson in 2017 for the ride home. They worked their way into regular rotation. I also bought some cookies but those have been long gone now.",
+    "image": "slippys.jpg",
+    "rating": 7
+  },
+  {
+    "name": "White Vans",
+    "brand": "Vans",
+    "from": "Quickie Mart",
+    "story": "These were the only full-price Vans I've bought from Quickie Mart. I really wanted some stark white shoes and was hesitant to wear them because they were too white. So finally I went skateboarding in them after some rain and got them good and gunked up. Now they're everyday ready.",
+    "image": "white-vans.jpg",
+    "rating": 8
+  },
+  {
+    "name": "Tigers",
+    "brand": "Tiger Onitsuka",
+    "from": "Goodwill",
+    "story": "These were some fun finds at the Bixby Goodwill. I changed out their shoestrings and just slip them on now. Love how insane they are.",
+    "image": "tigers.jpg",
+    "rating": 8
+  },
+  {
+    "name": "Cowboy Boots",
+    "brand": "Justin",
+    "from": "Super Thrift in OKC",
+    "story": "We were on a book shopping trip in OKC and I found these at one of the last stops on our trip. It was perfect timing because I was putting together a getup for the PBR. These were too small and frankly still are. I love their looks but boy do they smart.",
+    "image": "cowboy-boots.jpg",
+    "rating": 5,
+    "retired": true
   }
 ]
