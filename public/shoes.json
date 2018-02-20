@@ -202,5 +202,13 @@
     "image": "cowboy-boots.jpg",
     "rating": 5,
     "retired": true
+  },
+  {
+    "name": "Sorels",
+    "brand": "Sorel",
+    "from": "Amazon",
+    "story": "Ordered these in preparation of our 10th anniversary trip.",
+    "rating": 10,
+    "image": "sorels.jpg"
   }
 ]
